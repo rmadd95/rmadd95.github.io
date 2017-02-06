@@ -1,3 +1,12 @@
 body{
 	background-image:url('image.jpg');
+	-webkit-background-size: 100% auto;
+
+-moz-background-size: 100% auto;
+
+-ms-background-size: 100% auto;
+
+-o-background-size: 100% auto;
+
+background-size: 100% auto;
 }
