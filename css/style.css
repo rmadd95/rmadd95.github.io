@@ -11,14 +11,14 @@ body #page {
 	overflow: hidden;
 	padding: 0;
 	width: auto;
-	z-index: 3;
+	z-index: 0;
 }
 a {
 	text-decoration: none;
 	outline: none;
 }
 a:active {
-	background: none;
+	background: url("image.jpg");
 }
 img {
 	border: none;
