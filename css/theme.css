@@ -123,7 +123,7 @@ header.smaller .Navigation li { height: 60px; }
 .Banner_sec .rightside .Slider .text li:last-child { padding: 0px; }
 .Banner_sec .rightside .Slider .text li:hover a { color: #ff9000!important;}
 .Banner_sec .rightside .Slider .text li a .fa { padding: 13px; margin-right: 10px; color: #fff; border-radius: 50px; border: solid 2px #fff; transition: all 0.3s ease; }
-.Banner_sec .rightside .Slider .text li:hover a .fa { background: #ff9000; color: #fff; border: solid 2px #ff9000; }
+.Banner_sec .rightside .Slider .text li:hover a .fa { background: #ff9000; color: #fff; border: solid 2px #7fffd4; }
 .Banner_sec .rightside .Slider .text li:last-child { padding-right: 0px; padding-left: 0px;}
 .Banner_sec .rightside .Slider .text .Lorem { float: right; width: 31%; }
 .Banner_sec .rightside .Slider .text .Lorem p { padding-top: 5px; font-size: 18px; color: #fff; margin: 0px; font-family: 'Open Sans', sans-serif; font-weight: 400; text-transform: uppercase; text-align: right; line-height: 19px; }
