@@ -282,7 +282,7 @@ header.smaller .Navigation li { height: 60px; }
    	#loader:before { content: "img/concept-icn.png"; position: absolute; top: 5px; left: 5px; right: 5px; bottom: 5px; border-radius: 50%; border: 3px solid transparent;
    	border-top-color: #7fffd4; -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
    animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */ }
-   #loader:after { content: ""; position: absolute; top: 15px; left: 15px; right: 15px; bottom: 15px; border-radius: 50%; border: 3px solid transparent;
+   #loader:after { content: "img/concept-icn.png"; position: absolute; top: 15px; left: 15px; right: 15px; bottom: 15px; border-radius: 50%; border: 3px solid transparent;
 border-top-color: #7fffd4 ; -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */ }
 
 @-webkit-keyframes spin {
