@@ -297,7 +297,7 @@ body {
     position:absolute;
     left:50%; /* centers the loading animation horizontally one the screen */
     top:50%; /* centers the loading animation vertically one the screen */
-    background-image:url(../img/Snapper.gif); /* path to your loading animation */
+    background-image:url(../img/snapper.gif); /* path to your loading animation */
     background-repeat:no-repeat;
     background-position:center;
     margin-right: -50%;
