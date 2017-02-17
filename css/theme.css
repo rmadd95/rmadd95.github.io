@@ -300,5 +300,6 @@ body {
     background-image:url(../img/Snapper.gif); /* path to your loading animation */
     background-repeat:no-repeat;
     background-position:center;
-    margin:-100px 0 0 -100px; /* is width and height divided by two */
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
