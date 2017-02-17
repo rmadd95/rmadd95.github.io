@@ -288,12 +288,12 @@ body {
     right:0;
     bottom:0;
     background-color:#fff; /* change if the mask should have another color then white */
-    z-index:99; /* makes sure it stays on top */
+    z-index:100; /* makes sure it stays on top */
 }
 
 #status {
-    width:200px;
-    height:200px;
+    width:500px;
+    height:500px;
     position:absolute;
     left:50%; /* centers the loading animation horizontally one the screen */
     top:50%; /* centers the loading animation vertically one the screen */
