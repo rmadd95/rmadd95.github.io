@@ -38,7 +38,7 @@ function loadGoogleMap(){
   var script = document.createElement('script');
   script.type = 'text/javascript';
   
-  script async defer src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBe3OHDI7TrIDJeR8C2gAbjgvVXhhIxv6o&callback=initMap';
+  script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' + 'callback=initialize';
  
 
   document.body.appendChild(script);
